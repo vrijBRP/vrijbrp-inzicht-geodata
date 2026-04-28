@@ -1,2 +1,0 @@
-almere-wijken.geojson filter=lfs diff=lfs merge=lfs -text
-almere-buurten.geojson filter=lfs diff=lfs merge=lfs -text
